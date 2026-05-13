@@ -1,4 +1,4 @@
 def Pratham(name):
     return f"hey {name}"
-name = "Pratham"
+name = "Fenil"
 print(Pratham(name))
